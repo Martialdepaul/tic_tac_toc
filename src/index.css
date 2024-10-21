@@ -511,3 +511,21 @@ ol {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   margin-bottom: 20px;
 }
+/* Styles par défaut */
+body {
+  font-size: 16px;
+}
+
+/* Pour les écrans de 768px et moins */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+/* Pour les écrans de 480px et moins */
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+}
