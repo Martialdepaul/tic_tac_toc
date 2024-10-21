@@ -1,6 +1,3 @@
-Compris ! Voici une version plus professionnelle de la section destinée aux recruteurs, tout en conservant le reste du `README.md` :
-
-```markdown
 # 🎮 Tic Tac Toe
 
 ## Description
@@ -87,7 +84,3 @@ En tant que développeur passionné et motivé, je suis à la recherche de nouve
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
 ```
-
-### Modifications apportées :
-- La section destinée aux recruteurs a été reformulée pour donner une impression plus professionnelle tout en conservant un ton engageant.
-- N’hésite pas à ajuster d’autres parties selon tes préférences !
