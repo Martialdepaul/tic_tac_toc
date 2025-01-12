@@ -19,6 +19,10 @@ Ce projet utilise les plugins suivants pour React avec Vite :
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) - Utilise Babel pour le Fast Refresh.
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Utilise SWC pour le Fast Refresh.
 
+ ## 🎨 Aperçu 🖼️
+Voici la captures d'écran de l'application :  
+![Aperçu de Elegant-Context](./src/assets/img.png)
+
 ## Fonctionnalités
 
 - 🌐 Interface utilisateur réactive qui s'adapte aux écrans de PC et de tablette.
